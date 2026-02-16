@@ -1,8 +1,8 @@
-#include <iostream>
-using namespace  std;
-int main(int argc, char const *argv[])
-{
-    /* code */
-    cout<<"hello world";
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    cout << "Hello World";
     return 0;
 }
+ 
